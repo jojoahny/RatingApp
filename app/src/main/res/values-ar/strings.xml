@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RatingApp</string>
+    <string name="rating">التقييم الخاص بك</string>
+    <string name="rateUs">قم بالتقييم</string>
+    <string name="save">قم بالحفظ</string>
+    <string name="paragraph"> في قلب المدينة الصاخبة، حيث تلامس ناطحات السحاب السماء، يقع حديقة هادئة مزينة بالخضرة النضرة. يتجمع الناس من جميع مناحي الحياة هنا، يبحثون عن السلام وسط فوضى الحياة الحضرية. صوت تلطفي لورق الأشجار، وضحك الأطفال يلعبون، وهمس بعيد لحركة المرور يخلقون سمفونية متناغمة تلطف الروح.</string>
+</resources>
